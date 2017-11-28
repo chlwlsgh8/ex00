@@ -2,6 +2,7 @@ package org.zerock.domain;
 
 import java.util.Date;
 
+// 데이터베이스의 정보 저장
 public class MemberVO {
 	
 	private String userid;
